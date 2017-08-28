@@ -36,4 +36,11 @@ for($i=0;$i<count($a);$i++){
     }
     echo " ".$hoge."hogehoge\n";
 }
+// ┣hogehoge
+//  ┃┗hogehoge
+//  ┃ ┗hogehoge
+//  ┣hogehoge
+//  ┣hogehoge
+//  ┃┗hogehoge
+//  ┗hogehoge
 ?>
